@@ -5,7 +5,7 @@ The application uses the FPDF library to produce PDF formatted invoices which ca
 
 It meets the requirements from IRD for invoices for New Zealand Companies. 
 
-This is a standalone application which has its advantages but one disadvantage is that you do have access to your customer list. 
+This is a standalone application which has its advantages but one disadvantage is that you do not have access to your customer list directly. 
 You need to load a minimum of information for each customer you wish to invoice. 
 
 Installation.
