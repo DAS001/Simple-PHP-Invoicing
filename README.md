@@ -10,7 +10,7 @@ You need to load a minimum of information for each customer you wish to invoice.
 
 Installation.
 
-You can run this application on Windows or Linux. We recommend using Windows if you are not technical. If you are technical then choose which ypu prefer. 
+You can run this application on Windows or Linux. We recommend using Windows if you are not technical. If you are technical then choose which you prefer. 
 Refer to the installation document.
 
 Creating an Invoice
@@ -18,4 +18,4 @@ Creating an Invoice
 You need to setup a couple of background tables to enable the production of invoices:
 
 1. Customers
-2. Products
+2. Products (items)
