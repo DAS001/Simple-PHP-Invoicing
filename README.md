@@ -11,7 +11,7 @@ You need to load a minimum of information for each customer you wish to invoice.
 Installation.
 
 You can run this application on Windows or Linux. We recommend using Windows if you are not technical. If you are technical then choose which you prefer. 
-Refer to the installation document.
+
 
 Creating an Invoice
 
