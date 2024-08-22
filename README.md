@@ -7,3 +7,15 @@ It meets the requirements from IRD for invoices for New Zealand Companies.
 
 This is a standalone application which has its advantages but one disadvantage is that you do have access to your customer list. 
 You need to load a minimum of information for each customer you wish to invoice. 
+
+Installation.
+
+You can run this application on Windows or Linux. We recommend using Windows if you are not technical. If you are technical then choose which ypu prefer. 
+Refer to the installation document.
+
+Creating an Invoice
+
+You need to setup a couple of background tables to enable the production of invoices:
+
+1. Customers
+2. Products
