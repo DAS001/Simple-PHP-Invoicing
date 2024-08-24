@@ -1,0 +1,439 @@
+
+[2024-08-21 11:04:56] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Deprecated</b>:  Function get_magic_quotes_runtime() is deprecated in <b>/var/www/html/InvoiceMG_Release/includes/fpdf/fpdf.php</b> on line <b>1059</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>245</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>268</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>306</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>307</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>311</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>369</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>403</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>406</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>410</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>420</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>613</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:08:30] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>245</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>268</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>306</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>307</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>311</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>369</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>403</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>406</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>410</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>420</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>613</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:11:29] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>245</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>268</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>306</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>307</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>311</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>369</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>403</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>406</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>410</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>420</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>613</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:12:22] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>245</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>268</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>306</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>307</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>311</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>369</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>403</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>406</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>410</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>420</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>613</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:14:41] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>245</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>268</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>306</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>307</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>311</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>369</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>403</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>406</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>410</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>420</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>613</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:15:42] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>245</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>268</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>306</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>307</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>311</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>369</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>403</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>406</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>410</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>420</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>613</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>632</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:20:44] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>209</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>210</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>247</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>270</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>308</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>309</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>313</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>371</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>405</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>408</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>412</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>422</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>615</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>634</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>634</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:22:08] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>208</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>209</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>210</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>247</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>270</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>308</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>309</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>313</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>371</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>405</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>408</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>412</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>422</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>615</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>634</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>634</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:24:17] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>209</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>209</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>210</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>211</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>253</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>314</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>315</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>319</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>377</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>411</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>414</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>418</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>428</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>621</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>640</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>640</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:26:37] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>209</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>209</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>210</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>211</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>253</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>276</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>314</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>315</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>319</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>377</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>411</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>414</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>418</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>428</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>621</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>640</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>640</b><br />
+, ErrorThrown: Array
+[2024-08-21 11:53:09] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>210</b><br />
+<br />
+<b>Notice</b>:  Undefined index: number in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>215</b><br />
+<br />
+<b>Notice</b>:  Undefined index: due in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>220</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>227</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>294</b><br />
+<br />
+<b>Notice</b>:  Undefined index: from in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>332</b><br />
+<br />
+<b>Notice</b>:  Undefined index: to in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>333</b><br />
+<br />
+<b>Notice</b>:  Undefined index: ship in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>337</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>395</b><br />
+<br />
+<b>Notice</b>:  Undefined index: Discount in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>429</b><br />
+<br />
+<b>Notice</b>:  Undefined index: Total in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>432</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>436</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>446</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>639</b><br />
+<br />
+<b>Notice</b>:  Undefined index: page in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>658</b><br />
+<br />
+<b>Notice</b>:  Undefined index: page_of in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>658</b><br />
+, ErrorThrown: Array
+[2024-08-21 12:01:45] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: , ErrorThrown: Array
+[2024-08-21 12:02:45] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>221</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>288</b><br />
+<br />
+<b>Notice</b>:  Undefined index: from in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>326</b><br />
+<br />
+<b>Notice</b>:  Undefined index: to in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>327</b><br />
+<br />
+<b>Notice</b>:  Undefined index: ship in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>331</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>389</b><br />
+<br />
+<b>Notice</b>:  Undefined index: Discount in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>423</b><br />
+<br />
+<b>Notice</b>:  Undefined index: Total in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>426</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>430</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>440</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type null in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>633</b><br />
+<br />
+<b>Notice</b>:  Undefined index: page in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>652</b><br />
+<br />
+<b>Notice</b>:  Undefined index: page_of in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>652</b><br />
+, ErrorThrown: Array
+[2024-08-21 12:13:32] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been inserted successfully!"}<br />
+<b>Notice</b>:  Undefined index: from in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>330</b><br />
+<br />
+<b>Notice</b>:  Undefined index: to in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>331</b><br />
+<br />
+<b>Notice</b>:  Undefined index: ship in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>335</b><br />
+<br />
+<b>Notice</b>:  Undefined index: Discount in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>427</b><br />
+<br />
+<b>Notice</b>:  Undefined index: Total in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>430</b><br />
+<br />
+<b>Notice</b>:  Undefined index: page in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>656</b><br />
+<br />
+<b>Notice</b>:  Undefined index: page_of in <b>/var/www/html/InvoiceMG_Release/invoice.php</b> on line <b>656</b><br />
+, ErrorThrown: Array
+[2024-08-21 12:22:47] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Customer has been updated successfully!"}{"status":"Success","message":"Customer has been updated successfully!"}<br />
+<b>Warning</b>:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in <b>/var/www/html/InvoiceMG_Release/response.php</b> on line <b>987</b><br />
+{"status":"Error","message":"There has been an error, please try again.<pre><\/pre><pre>UPDATE store_customers SET\r\n\t\t\t\tname = ?,\r\n\t\t\t\temail = ?,\r\n\t\t\t\taddress_1 = ?,\r\n\t\t\t\taddress_2 = ?,\r\n\t\t\t\ttown = ?,\r\n\t\t\t\tcounty = ?,\r\n\t\t\t\tpostcode = ?,\r\n\t\t\t\tphone = ?,\r\n\r\n\t\t\t\tname_ship = ?,\r\n\t\t\t\taddress_1_ship = ?,\r\n\t\t\t\taddress_2_ship = ?,\r\n\t\t\t\ttown_ship = ?,\r\n\t\t\t\tcounty_ship = ?,\r\n\t\t\t\tpostcode_ship = ?\r\n\r\n\t\t\t\tWHERE id = ?\r\n\r\n\t\t\t<\/pre>"}, ErrorThrown: Array
+[2024-08-21 12:25:29] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Customer has been updated successfully!"}{"status":"Success","message":"Customer has been updated successfully!"}{"status":"Success","message":"Invoice has been updated successfully!"}, ErrorThrown: Array
+[2024-08-21 12:25:42] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Customer has been updated successfully!"}{"status":"Success","message":"Customer has been updated successfully!"}{"status":"Success","message":"Invoice has been updated successfully!"}, ErrorThrown: Array
+[2024-08-21 12:26:41] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Customer has been updated successfully!"}{"status":"Success","message":"Customer has been updated successfully!"}{"status":"Success","message":"Invoice has been updated successfully!"}, ErrorThrown: Array
+[2024-08-22 11:55:36] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: , ErrorThrown: Array
+[2024-08-22 11:55:51] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: , ErrorThrown: Array
+[2024-08-22 11:58:54] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been updated successfully!"}{"status":"Success","message":"Invoice has been updated successfully!"}, ErrorThrown: Array
+[2024-08-22 11:59:08] Status: 200, Message: A parsererror occurred. Please refer to the error file., ResponseText: {"status":"Success","message":"Invoice has been updated successfully!"}{"status":"Success","message":"Invoice has been updated successfully!"}, ErrorThrown: Array

@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>jQuery Ajax POST Example</title>
+<link
+rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css"
+/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript">
+
+$(document).ready(function () {
+$(".bin").click(function () {
+var datastring = $("#Form").serialize();
+$.ajax({
+type: "POST",
+url: "https://192.168.1.108/InvoiceMg/test1.php",
+url: "https://httpbin.org/post",
+data: datastring,
+dataType: "json",
+success: function (data) {
+var obj = JSON.stringify(data);
+$(".result").append(
+'</textarea></li><li class="list-group-item active">Results from server:</li><li class="list-group-item">Name: ' +
+data["form"]["name"] +
+'</li><li class="list-group-item">Email: ' +
+data["form"]["email"] +
+'</li><li class="list-group-item">Gender: ' +
+data["form"]["multiple"] +
+'</li><li class="list-group-item">Comments: ' +
+data["form"]["text"] +
+"</li></ul></div>"
+);
+},
+error: function () {
+$(".result").append("An Error has occurred");
+},
+});
+});
+});
+</script>
+
+<style>
+#divstyle {
+width: 600px;
+height: 550px;
+padding-top: 20px;
+padding-left: 5px;
+font-size: 16px;
+text-align: center;
+color: maroon;
+background-color: cadetblue;
+}
+</style>
+
+</head>
+
+<body>
+<div id="divstyle">
+<div class="container text-center">
+<form id="Form">
+<div class="form-group">
+<label for="FormControlInput">Enter your name</label>
+<input
+type="name"
+name="name"
+class="form-control"
+id="FormControlInput"
+/>
+</div>
+<div class="form-group">
+<label for="FormControlInput">Enter your email id</label>
+<input
+type="email"
+name="email"
+class="form-control"
+id="FormControlInput"
+/>
+</div>
+<div class="form-group">
+<label for="FormControlInput">Enter your gender</label>
+<select
+multiple
+name="multiple"
+class="form-control"
+id="FormControlSelect"
+>
+<option selected>Male</option>
+<option>Female</option>
+</select>
+</div>
+<div class="form-group">
+<label for="FormControlInput">Enter your comments</label>
+<textarea
+name="text"
+class="form-control"
+id="FormControlTextarea"
+rows="3"
+></textarea>
+</div>
+<button type="button" class="btn btn-primary bin">Submit</button>
+</form>
+<br />
+<div class="result"></div>
+</div>
+</div>
+</body>
+</html>

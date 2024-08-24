@@ -1,0 +1,52 @@
+<html>
+	<head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script>
+
+$(function() {
+    // jQuery methods go here...
+    $('#itemquantity').on("change", function() {
+        calculatePrice();
+    });
+    $('#itemrate').on("change", function() {
+        calculatePrice();
+    });
+
+    function calculatePrice(){
+        var price = 0;
+        var quantity = parseFloat('#itemquantity').val();
+        var rate = $('#itemrate').val();
+        if(quantity != "" && rate != ""){
+             price = quantity * rate;
+             $('#itemprice').val(price.toFixed(2));
+        }
+        
+    }});
+
+
+</script>
+
+
+<body>
+<table class="inventory" id="inventory">
+  <thead>
+    <tr>
+      <th><span>Item</span></th>
+      <th><span>Description</span></th>
+      <th><span>Rate</span></th>
+      <th><span>Quantity</span></th>
+      <th><span>Price</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><input type="text" class="items" name="item"></td>
+      <td><input type="text" class="items" name="itemdesc"></td>
+      <td><input type="text" class="items" name="itemrate" id="itemrate"></td>
+      <td><input type="text" id="itemquantity" class="items" name="itemquantity" value="0"></td>
+      <td><input type="text" id="itemprice" id="price" class="items" name="itemprice"></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
