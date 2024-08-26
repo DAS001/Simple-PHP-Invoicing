@@ -120,11 +120,15 @@ class invoicr1 extends FPDF_rotation
 	
 	function addItem($item,$description,$quantity,$vat,$price,$discount=0,$total)
 	{
+		if ( $this->currency != "$" )
+		    $curreny1 = "$";
+	    else
+		    $curreny1 = $this->currency;
 		$p['item'] 			= $item;
 		$p['description'] 	= $this->br2nl($description);
 		$p['vat']			= $vat;
 		if(is_numeric($vat)) {
-			$p['vat']		= $this->currency.' '.number_format($vat,2,$this->referenceformat[0],$this->referenceformat[1]);
+			$p['vat']		= $curreny1 .' '. number_format($vat,2,$this->referenceformat[0],$this->referenceformat[1]);
 		} 
 		$p['quantity'] 		= $quantity;
 		$p['price']			= $price;
@@ -134,7 +138,7 @@ class invoicr1 extends FPDF_rotation
 			$this->firstColumnWidth = 58;
 			$p['discount'] = $discount;
 			if(is_numeric($discount)) {
-				$p['discount']	= $this->currency.' '.number_format($discount,2,$this->referenceformat[0],$this->referenceformat[1]);
+				$p['discount']	= $curreny1 .' '.number_format($discount,2,$this->referenceformat[0],$this->referenceformat[1]);
 			}
 			$this->discountField = true;
 			$this->columns = 6;
@@ -145,10 +149,14 @@ class invoicr1 extends FPDF_rotation
 	
 	function addTotal($name,$value,$colored=0)
 	{
+		if ( $this->currency != "$" )
+		    $curreny1 = "$";
+	    else
+		    $curreny1 = $this->currency;
 		$t['name']			= $name;
 		$t['value']			= $value;
 		if(is_numeric($value)) {
-			$t['value']			= $this->currency.' '.number_format($value,2,$this->referenceformat[0],$this->referenceformat[1]);
+			$t['value']			= $curreny1 .' '. number_format($value,2,$this->referenceformat[0],$this->referenceformat[1]);
 		} 
 		$t['colored']		= $colored;
 		$this->totals[]		= $t;
@@ -590,7 +598,7 @@ class invoicr1 extends FPDF_rotation
 					$this->SetTextColor(255,255,255);
 					$this->SetFillColor($this->color[0],$this->color[1],$this->color[2]);
 				}
-				$this->Cell($width_other,$cellHeight,iconv('UTF-8', 'windows-1252',$total['value']),0,0,'C',1);
+				$this->Cell($width_other,$cellHeight,iconv('UTF-8', 'windows-1252',' ' . $total['value']),0,0,'C',1);
 				$this->Ln();
 				$this->Ln($this->columnSpacing);
 			}
